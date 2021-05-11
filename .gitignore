@@ -96,3 +96,4 @@ InitTestScene*.unity
 # End of https://www.toptal.com/developers/gitignore/api/unity,visualstudiocode,dotnetcore
 ProjectSettings/Packages/com.unity.probuilder/Settings.json
 Assets/Ludiq/Bolt.Core/Generated/ProjectSettings.asset
+ProjectSettings/Packages/com.unity.probuilder/Settings.json
