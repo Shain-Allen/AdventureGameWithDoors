@@ -94,3 +94,4 @@ InitTestScene*.unity
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/unity,visualstudiocode,dotnetcore
+ProjectSettings/Packages/com.unity.probuilder/Settings.json
